@@ -17,5 +17,8 @@ fields or test your solution:
     flag same field again to remove flag
     type "solve" to check your solution
 
-Have fun ;)
+For the general rules of the game, I refer you to the Wikipedia article ;)
+http://en.wikipedia.org/wiki/Minesweeper_(video_game)
+
+Have fun ! 
 
